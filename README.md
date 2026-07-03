@@ -30,6 +30,23 @@ The system automatically coordinates multiple AI agents to analyze live operatio
 
 ---
 
+
+# Screenshots
+<img width="785" height="400" alt="image" src="https://github.com/user-attachments/assets/bb05a270-bbc2-4a5c-a2ae-f8a2af5f056f" />
+<img width="1560" height="765" alt="image" src="https://github.com/user-attachments/assets/a1ab42b5-c804-4194-824a-120e29f1dee0" />
+<img width="604" height="284" alt="image" src="https://github.com/user-attachments/assets/770dc255-ec39-4e01-b5a0-0ba025f586c8" />
+<img width="722" height="413" alt="image" src="https://github.com/user-attachments/assets/29591bd3-4048-44ef-8c69-661aa3862051" />
+<img width="779" height="404" alt="image" src="https://github.com/user-attachments/assets/8561cd42-2346-4a37-b4f6-4c7c252e8e34" />
+<img width="782" height="400" alt="image" src="https://github.com/user-attachments/assets/beb56258-f361-4f90-a3ff-e4f2f2117d2f" />
+<img width="780" height="401" alt="image" src="https://github.com/user-attachments/assets/0f654f04-40e0-475e-991b-59481d00e30e" />
+
+
+
+
+
+
+
+
 # 🏗 Architecture
 
 ```
